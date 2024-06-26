@@ -84,7 +84,6 @@ class CarouselApp(Adw.Application):
             grid.set_margin_end(15)
             grid.set_halign(Gtk.Align.CENTER)
             grid.set_valign(Gtk.Align.CENTER)
-            grid.get_style_context().add_class('carousel-item')
 
             # Each page will have 3 columns and up to 4 rows
             for j in range(12*i, min(12*(i+1), num_items)):
