@@ -51,9 +51,9 @@ class CarouselApp(Adw.Application):
                 button {
                     min-width: 150px; 
                     min-height: 50px; 
-                    padding: 5px 20px;
+                    padding: 7px 40px;
                     border-radius: 30px;
-                    font-size: 14px;
+                    font-size: 16px;
                     margin: 10px;
                     background: #1a5fb4;
                 }
