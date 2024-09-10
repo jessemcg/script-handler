@@ -3,7 +3,7 @@ This is a python/GTK4 app for displaying and executing bash scripts that are org
 
 The app will display up to 12 scripts at a time, then you can cycle through more scripts using the carousel widget, which can be controlled with a mouse wheel or trackpad (three fingers).
 
-https://github.com/jessemcg/script-handler/assets/35084599/3dc4ed44-55bd-4d0a-9c48-5657c5a74a6a
+https://github.com/user-attachments/assets/4bd34217-629c-441b-9ecc-8f190a413313
 
 ## Install
 
