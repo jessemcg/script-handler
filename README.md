@@ -1,7 +1,7 @@
 # script-handler
 This is a python/GTK4 app for displaying and executing bash scripts that are organized in directories. Once set up, name and organize your bash scripts in directories within the "scripts" directory. The app will adopt the same names. Change the scripts directory within the script-handler.py file if you like. 
 
-The app will display up to 12 scripts at a time, then you can cycle through more scripts using the carousel widget, which can be controlled with a mouse wheel or trackpad (three fingers).
+The app will display up to 12 scripts at a time, then you can cycle through more scripts using the carousel widget, which can be controlled with a mouse wheel or track pad (three fingers).
 
 https://github.com/user-attachments/assets/4bd34217-629c-441b-9ecc-8f190a413313
 
